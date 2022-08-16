@@ -1,0 +1,15 @@
+span{
+    font-size: 25px;
+    margin-left: 20px;
+}
+i{
+    font-size: 20px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.check{
+    
+}
+.todocmp{
+    margin-top: 15px;
+}
